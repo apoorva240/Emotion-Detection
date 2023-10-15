@@ -67,17 +67,8 @@ This project uses the following dependencies:
 - React
 - react-webcam
 
-## References
 
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
-- [Face recognition in the browser with TensorFlow.js and face-api.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
 
-## Demo
 
-https://facedetection.epcm18.repl.co/
 
-## FaceRecognition
-
-I've created a face recognition system also using face-api.js.
-[https://github.com/epcm18/FaceRecognition]
 
