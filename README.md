@@ -7,7 +7,8 @@ This project demonstrates how to set up real-time face detection using AI in a w
 ## Results
 
 
-![Uploading project.png…]()
+![project](https://github.com/apoorva240/Face-Detection/assets/117351441/1b21cd1b-4788-4307-b26d-07db701d9749)
+
 
 ## Concepts You will learn:
 
