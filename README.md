@@ -1,6 +1,6 @@
-# Face Detection
+# Emotion Detection
  This project uses the Face API JS library built on Tensor Flow to enable face recognition for any image. With the use of AI, the system is able to quickly identify the name of every character in an image without much performance overhead.
- # Real Time Face Detection with AI
+ # Real Time Emotion Detection with AI
 
 This project demonstrates how to set up real-time face detection using AI in a web application. By using the Face API JS library built on Tensor Flow, we are able to quickly and accurately detect faces and draw facial landmarks in real-time, even while streaming video from a webcam.
 
